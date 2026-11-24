@@ -13,6 +13,13 @@ import os
 import re
 import sys
 
+# The horror works because the camera is the only witness that lies:
+# sentence one builds a calm routine — three weeks of breathing, rising
+# and falling in the dark — and sentence two breaks it twice: the crib
+# is empty, the nursery door still locked from the inside, yet the
+# screen still shows her breathing. The second sentence lands harder
+# because it adds no monster; it takes away the child and leaves the
+# breathing behind.
 STORY = (
     "I mounted the camera above the crib the day we brought our daughter "
     "home, and for three weeks the little screen in the kitchen showed her "
